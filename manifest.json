@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Jokes extension",
+  "description": "????",
+  "version": "1.0",
+  "action": {
+    "default_popup": "./popup/popup.html",
+    "default_icon": "./img/jokes_extension.png"
+  }
+}
